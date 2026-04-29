@@ -12,5 +12,5 @@ Support data-driven decision-making
 Identify high-performing products and regions
 Detect areas of loss or inefficiency
 Improve customer segmentation and targeting
-
 Ultimately, it reflects how analytical tools like Power BI can bridge the gap between data and strategy.
+![Analysiss](
