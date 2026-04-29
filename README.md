@@ -31,7 +31,7 @@ Top customers contribute significantly to total revenue
 Regional customer distribution shows concentration in the West and East regions
  Insight: The business heavily depends on the consumer segment, indicating an opportunity to expand corporate and home office markets.
  # Regional & State Insights
- ![Regional and State Insights]()
+ ![Regional and State Insights](https://github.com/shelle533/Superstore-Sales-Performance-Analysis-Dashboard/blob/main/Screenshot%202025-11-01%20013906.png?raw=true)
  Top-performing states: California, New York, Texas
 Some states show negative profit margins despite sales
 Insight: High sales do not always translate to profitability—costs and discounts significantly impact margins.
