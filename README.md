@@ -25,7 +25,7 @@ Order Count: ~5,000 orders
 
 Insight: The business is profitable, but the margin suggests room for optimization, especially around pricing and discounts.
 # Customer Insights
-![Customer Insights]()
+![Customer Insights](https://github.com/shelle533/Superstore-Sales-Performance-Analysis-Dashboard/blob/main/Screenshot%202025-11-01%20013803.png?raw=true)
 Consumer segment generates the highest sales and profit
 Top customers contribute significantly to total revenue
 Regional customer distribution shows concentration in the West and East regions
