@@ -17,7 +17,7 @@ Ultimately, it reflects how analytical tools like Power BI can bridge the gap be
 ![Analysiss](https://github.com/shelle533/Superstore-Sales-Performance-Analysis-Dashboard/blob/main/49c61b3c9540e359dafffcc0151be36e.jpg?raw=true)
 ## Key Insights from the Dashboard
 # Sales & Profit Overview
-![Sales and Profit Overview]()
+![Sales and Profit Overview](https://github.com/shelle533/Superstore-Sales-Performance-Analysis-Dashboard/blob/main/Screenshot%202025-11-01%20013726.png?raw=true)
 Total Sales: $2.30M
 Total Profit: $286.4K
 Profit Margin: 12%
