@@ -129,5 +129,6 @@ Build interactive dashboards
 Communicate insights effectively
 
 Moving forward, I aim to continue building data-driven solutions, particularly in areas where analytics can create measurable impact.
- 
+ # Power BI Dashboard file
+ ![Power bi dashboard]()
 
