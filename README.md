@@ -36,7 +36,7 @@ Regional customer distribution shows concentration in the West and East regions
 Some states show negative profit margins despite sales
 Insight: High sales do not always translate to profitability—costs and discounts significantly impact margins.
 # Product & Category Performance
-![Product and category performance]()
+![Product and category performance](https://github.com/shelle533/Superstore-Sales-Performance-Analysis-Dashboard/blob/main/Screenshot%202025-11-01%20013954.png?raw=true)
 Technology is the most profitable category
 Furniture generates lower profit despite sales
 Certain sub-categories (e.g., Tables) contribute to losses
