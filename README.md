@@ -13,4 +13,31 @@ Identify high-performing products and regions
 Detect areas of loss or inefficiency
 Improve customer segmentation and targeting
 Ultimately, it reflects how analytical tools like Power BI can bridge the gap between data and strategy.
-![Analysiss](
+
+![Analysiss](https://github.com/shelle533/Superstore-Sales-Performance-Analysis-Dashboard/blob/main/49c61b3c9540e359dafffcc0151be36e.jpg?raw=true)
+## Key Insights from the Dashboard
+# Sales & Profit Overview
+![Sales and Profit Overview]()
+Total Sales: $2.30M
+Total Profit: $286.4K
+Profit Margin: 12%
+Order Count: ~5,000 orders
+
+Insight: The business is profitable, but the margin suggests room for optimization, especially around pricing and discounts.
+# Customer Insights
+![Customer Insights]()
+Consumer segment generates the highest sales and profit
+Top customers contribute significantly to total revenue
+Regional customer distribution shows concentration in the West and East regions
+ Insight: The business heavily depends on the consumer segment, indicating an opportunity to expand corporate and home office markets.
+ # Regional & State Insights
+ ![Regional and State Insights]()
+ Top-performing states: California, New York, Texas
+Some states show negative profit margins despite sales
+Insight: High sales do not always translate to profitability—costs and discounts significantly impact margins.
+# Product & Category Performance
+![Product and category performance]()
+Technology is the most profitable category
+Furniture generates lower profit despite sales
+Certain sub-categories (e.g., Tables) contribute to losses
+Insight: Product-level analysis highlights where the company should optimize pricing or reduce discounts.
